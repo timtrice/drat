@@ -1,5 +1,6 @@
 Package: rrricanesdata
 Version: 0.1.4
 Depends: R (>= 3.3.3)
-MD5sum: 5735c3fc21e88c5295100e19f801a156
+MD5sum: 6330d12938983d08c6c4892385b7b3d2
 NeedsCompilation: no
+
